@@ -14,6 +14,7 @@ Ayush Gaud
 - [Kaleb Nim](https://github.com/Kaleb-Nim)
 - [Rithuraj Nambiar](https://github.com/rithurajnambiar17)
 - [mykyta] (https://github.com/pokulita)
+- [Tom] (https://github.com/TResPro)
 -[Apurva Narayan Pradhan](https://github.com/ApurvaPradhan)
 - [Kevin Patel] (https://github.com/PatelKeviin)
 - [Aditya]
